@@ -9,15 +9,15 @@ body {
 }
 
 header {
-    background-color: #0052cc;
+    background-color: #aa0085;
     color: white;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
 h1 {
     margin: 0 0 15px 0;
-    font-size: 1.8rem;
+    font-size: 2.2rem;
 }
 
 /* Menü für Desktopanwender */
